@@ -8,10 +8,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Este proyecto implementa un sistema de autenticación simple utilizando tokens JSON Web Token (JWT) en una aplicación Node.js con Express.js. La funcionalidad clave es la expiración de tokens para mejorar la seguridad del sistema.",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2"
-  }
+  },
+  "devDependencies": {}
 }
